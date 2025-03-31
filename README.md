@@ -1,4 +1,15 @@
-<<<<<<< HEAD
+# 🌍 Eden Map App
+
+This is a React-based GIS application using ArcGIS Maps SDK.
+
+## 🚀 How to Run
+
+1. Make sure you have [Node.js](https://nodejs.org/) installed.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/eden-map-app.git
+   cd eden-map-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
